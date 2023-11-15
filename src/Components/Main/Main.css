@@ -1,0 +1,28 @@
+
+.main-container{
+    height: 700px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    border: solid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+hr{
+    width: 90%;
+    margin: 20px;
+}
+.balance-container{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    
+}
+
+.balance-amount{
+    font-size: 140%;
+    color: #2fb7e0f4 ;
+}
