@@ -1,0 +1,18 @@
+.nav-container{
+    height: 80px;
+    width: 100vw ;
+    background-color: #2fb7e0f4;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+
+.nav-link{
+    color: white;
+    font-size: 130%;
+}
+

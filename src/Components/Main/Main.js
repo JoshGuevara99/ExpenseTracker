@@ -1,6 +1,6 @@
 import React from 'react'
 import '/Users/joshuaguevara/expensetracker/src/Components/Main/Main.css'
-import History from '/Users/joshuaguevara/expensetracker/src/Components/History/History.js'
+import Recents from '/Users/joshuaguevara/expensetracker/src/Components/Recents/Recents.js'
 import NewTransaction from '/Users/joshuaguevara/expensetracker/src/Components/NewTransaction/NewTransaction.js'
 function Main() {
   return (
@@ -13,7 +13,7 @@ function Main() {
         <hr/>
         <div>
           
-          <History/>
+          <Recents/>
 
         </div>
    

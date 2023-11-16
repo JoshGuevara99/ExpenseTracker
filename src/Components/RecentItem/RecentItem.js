@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react'
-import './HistoryItem.css'
+import './RecentItem.css'
 import { useState } from 'react'
 
-function HistoryItem(props) {
+function RecentItem(props) {
 
   const [change,setChange]= useState("")
   useEffect(()=>{
@@ -33,4 +33,4 @@ function HistoryItem(props) {
   )
 }
 
-export default HistoryItem
+export default RecentItem
